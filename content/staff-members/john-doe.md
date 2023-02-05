@@ -1,6 +1,6 @@
 ---
 name: Evaristo Amaro
-image: "https://placekitten.com/440/440?a=.png"
+image: "https://i.ibb.co/MpZkryx/evaristo.jpg"
 credentials: CP 7823
 ---
 

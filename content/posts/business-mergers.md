@@ -1,15 +1,15 @@
 ---
-title: Business Mergers
-date: 2016-08-10T00:00:00Z
+title: Fusões e Aquisições
+date: 2013-02-05
 tags:
-  - Business
-author_staff_member: jane-doe
+  - Negócios
+author_staff_member: john-doe
 image: "https://unsplash.it/600/450?image=737&a=.png"
 ---
 
-Mergers and acquisitions are transactions in which the ownership of companies, other business organizations or their operating units are transferred or combined.
+As fusões e aquisições são transacções em que a propriedade de empresas, outras organizações empresariais ou as suas unidades operacionais são transferidas ou combinadas.
 
-From a legal point of view, a merger is a legal consolidation of two entities into one entity, whereas an acquisition occurs when one entity takes ownership of another entity's stock, equity interests or assets. From a commercial and economic point of view, both types of transactions generally result in the consolidation of assets and liabilities under one entity, and the distinction between a "merger" and an "acquisition" is less clear. A transaction legally structured as a merger may have the effect of placing one party's business under the indirect ownership of the other party's shareholders, while a transaction legally structured as an acquisition may give each party's shareholders partial ownership and control of the combined enterprise. A deal may be euphemistically called a "merger of equals" if both CEOs agree that joining together is in the best interest of both of their companies, while when the deal is unfriendly (that is, when the management of the target company opposes the deal) it may be regarded as an "acquisition".
+Do ponto de vista jurídico, uma fusão é uma consolidação legal de duas entidades numa entidade, enquanto que uma aquisição ocorre quando uma entidade toma posse de acções, participações ou activos de outra entidade. De um ponto de vista comercial e económico, ambos os tipos de transacções resultam geralmente na consolidação de activos e passivos sob uma entidade, e a distinção entre uma "fusão" e uma "aquisição" é menos clara. Uma transacção legalmente estruturada como uma fusão pode ter o efeito de colocar o negócio de uma parte sob a propriedade indirecta dos accionistas da outra parte, enquanto uma transacção legalmente estruturada como uma aquisição pode dar aos accionistas de cada parte a propriedade parcial e o controlo da empresa combinada. Uma operação pode ser eufemisticamente designada por "fusão de iguais" se ambos os CEOs concordarem que a união é do interesse de ambas as empresas, enquanto que quando a operação não é amigável (ou seja, quando a direcção da empresa visada se opõe à operação) pode ser considerada como uma "aquisição".
 
 <img src="https://unsplash.it/960/350?image=617" width="960" height="350" alt="Placeholder image">
 
@@ -21,18 +21,17 @@ Achieving acquisition success has proven to be very difficult, while various stu
 
 The combined evidence suggests that the shareholders of acquired firms realize significant positive "abnormal returns" while shareholders of the acquiring company are most likely to experience a negative wealth effect. The overall net effect of M&A transactions appears to be positive: almost all studies report positive returns for the investors in the combined buyer and target firms. This implies that M&A creates economic value, presumably by transferring assets to management teams that operate them more efficiently (see Douma & Schreuder, 2013, chapter 13).
 
-
 <img src="https://unsplash.it/960/350?image=864" width="960" height="350" alt="Placeholder image">
 
 ### Business valuation
 
 The five most common ways to value a business are
 
-* asset valuation,
-* historical earnings valuation,
-* future maintainable earnings valuation,
-* relative valuation (comparable company and comparable transactions),
-* discounted cash flow (DCF) valuation
+- asset valuation,
+- historical earnings valuation,
+- future maintainable earnings valuation,
+- relative valuation (comparable company and comparable transactions),
+- discounted cash flow (DCF) valuation
 
 Professionals who value businesses generally do not use just one of these methods but a combination of some of them, as well as possibly others that are not mentioned above, in order to obtain a more accurate value. The information in the balance sheet or income statement is obtained by one of three accounting measures: a Notice to Reader, a Review Engagement or an Audit.
 
