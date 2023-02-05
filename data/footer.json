@@ -7,7 +7,7 @@
         "link": "/"
       },
       {
-        "name": "Acerca",
+        "name": "Sobre",
         "link": "/about"
       },
       {
@@ -19,7 +19,7 @@
         "link": "/contact"
       },
       {
-        "name": "Notícias",
+        "name": "Blog",
         "link": "/blog"
       }
     ]
@@ -29,7 +29,7 @@
     "links": [
       {
         "name": "Facebook",
-        "link": "https://facebook.com/",
+        "link": "https://www.facebook.com/evaristo.amaro/",
         "social_icon": "Facebook",
         "new_window": true
       },
@@ -47,7 +47,7 @@
       },
       {
         "name": "LinkedIn",
-        "link": "https://linkedin.com/",
+        "link": "https://www.linkedin.com/in/evaristo-amaro-988588124/",
         "social_icon": "LinkedIn",
         "new_window": true
       }
