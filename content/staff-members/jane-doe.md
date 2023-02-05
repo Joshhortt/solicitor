@@ -1,8 +1,10 @@
 ---
-name: Jane Doe
-image: "https://placekitten.com/440/440?a=.png"
-credentials: LLB
-phone_extension: "02"
+name: Áreas de atuação
+image: "https://placebear.com/440/440?a=.png"
+credentials: CP 7823
 ---
 
-Jane has 19 years of experience in law, and specialises in property and business.
+- Consultoria em Prevenção de Branqueamento de Capitais
+- Reestruturação de Gestão de Condomínios
+- Recuperação e Cobrança de créditos
+- Consultoria na Área do Arrendamento Urbano benefícios fiscais no setor imobiliário
