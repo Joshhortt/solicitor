@@ -58,7 +58,7 @@ export default function DefaultLayout({ children, page }) {
                   href="/about"
                   className={page.slug === "about" ? "active" : ""}
                 >
-                  About
+                  Sobre
                 </Link>
               </li>
               <li>
@@ -66,7 +66,7 @@ export default function DefaultLayout({ children, page }) {
                   href="/services"
                   className={page.slug === "services" ? "active" : ""}
                 >
-                  Services
+                  Serviços
                 </Link>
               </li>
               <li>
@@ -74,7 +74,7 @@ export default function DefaultLayout({ children, page }) {
                   href="/contact"
                   className={page.slug === "contact" ? "active" : ""}
                 >
-                  Contact
+                  Contacto
                 </Link>
               </li>
               <li>
