@@ -2,6 +2,5 @@
 title: Blog
 call_to_action: Contact
 large_header: false
-content_html: <p>Get an introduction to some industry topics and stay informed with our in-depth articles.</p>
+content_html: <p>Leia o nosso Blog sobre as últimas novidades atuais nas várias áreas da lei em Portugal.</p>
 ---
-
