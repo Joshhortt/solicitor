@@ -7,7 +7,7 @@ const filer = new Filer({ path: "content" });
 export default function About({ page, staffMembers }) {
   return (
     <PageLayout page={page}>
-      <h4>Qualificações as áreas de atuação:</h4>
+      <h4>Qualificações & Àreas de atuação:</h4>
 
       <ul className="staff-list">
         {staffMembers.map((staffMember, i) => (
