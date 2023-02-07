@@ -4,19 +4,18 @@ image: "https://i.ibb.co/yN8MyMN/image.jpg"
 credentials: CP 7823
 ---
 
-- Urbanismo
-- Sociedades
-- Leilões
-- Sociedades
-- Atos Notariais
-- Estrangeiros e Imigrantes
-- Cobrança de Créditos
-- Administração de Condomínios
-- Registos
-- Direito do Trabalho
-- Família
-- Requerimentos e Interação com a Administração Pública
-- Autos de Constatação
-- Preparação de Titulações
-- Aconselhamento Fiscal
-- Diversos
+- Transmissão de imóveis
+- Liquidação de impostos
+- Heranças
+- Hipotecas
+- Formalização de sociedades
+- Liquidação de sociedades
+- Obtenção de certidões
+- Reconhecimento de assinaturas
+- Certificação de fotocópias
+- Certificação de documentos
+- Certificação de traduções
+- Registo comercial
+- Registo predial
+- Registo automóvel
+- Registo de marcas
