@@ -1,6 +1,6 @@
 ---
 title: Denúncia do Contrato de Trabalho
-date: 2016-11-11T00:00:00Z
+date: 2022-12-05
 tags:
   - Direito do Trabalho
 author_staff_member: john-doe
