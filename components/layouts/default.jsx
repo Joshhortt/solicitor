@@ -167,8 +167,9 @@ export default function DefaultLayout({ children, page }) {
         <div className="legal-line">
           <p className="container">
             &copy; {new Date().getFullYear()} {data.company.company_name} &bull;{" "}
-            <Link href="/terms">Termos e Direitos</Link> &bull; Privacidade e
-            Segurança &bull; Desenvolvido por{" "}
+            <Link href="/privacy">Política de Privacidade</Link> &bull;
+            <Link href="/terms">Termos & Condições</Link> &bull; Desenvolvido
+            por{" "}
             <Link href="https://creativelightbox.net/">Creative Lightbox</Link>
           </p>
         </div>
