@@ -112,8 +112,6 @@ and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Contact
 
 José Horta - [@josh_hortt](https://twitter.com/josh_hortt)
