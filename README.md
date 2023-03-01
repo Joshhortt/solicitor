@@ -1,21 +1,29 @@
 # Solicitor
 
-Law firm themed business template for Next.js. Browse through a
-[live demo](https://mysterious-shelter.cloudvent.net/). Increase the web presence of a law firm or
-business with this configurable theme.
+Solicitor is a firm business website in Development.
 
-![Justice template screenshot](_screenshot.png)
+## Design
 
-Justice was made by [CloudCannon](https://cloudcannon.com/).
+Design Phase is Approved by the client. Below is a sample services page.
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/justice-nextjs-template)
+![Solicitor template screenshot](_screenshot.png)
+
+## Stack
+
+Built with Next.js and Markdown
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Features
 
 - Contact form
-- Pre-built pages
+- Home page
+- Blog page
+- About page
+- Services page
+- Contact page
+- Contact form
 - Pre-styled components
-- Blog
 - Post category pages
 - Disqus comments for posts
 - Staff and author system
@@ -24,6 +32,8 @@ Justice was made by [CloudCannon](https://cloudcannon.com/).
 - RSS/Atom feed
 - SEO tags
 - Google Analytics
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Setup
 
@@ -34,16 +44,39 @@ Justice was made by [CloudCannon](https://cloudcannon.com/).
 
 ## Develop
 
-Justice is built with [Next.js](https://nextjs.org/) (version `13.0.4`).
+Solicitor is built with [Next.js](https://nextjs.org/) (version `13.0.4`).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Installation
 
 ```bash
-$ npm install
-$ npm run dev
+npm install
 ```
+
+<!-- DEVELOPMENT -->
+
+## Development
+
+First, run the development server:
+
+```bash
+npm start
+```
+
+or
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Editing
 
-Justice is already optimised for adding, updating and removing pages, staff, posts, company details
+Solicitr is already optimised for adding, updating and removing pages, staff, posts, company details
 and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 ### Posts
@@ -56,6 +89,8 @@ and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 - Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/).
 - Sends email to the address listed in company details.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Staff
 
@@ -70,3 +105,19 @@ and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 - Reused around the site to save multiple editing locations.
 - Set in the _Data_ / _Company_ section.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contact
+
+José Horta - [@josh_hortt](https://twitter.com/josh_hortt)
+
+My E-mail - [joshhortt@yahoo.com](joshhortt@yahoo.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
