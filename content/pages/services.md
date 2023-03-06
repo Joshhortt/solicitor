@@ -2,8 +2,7 @@
 title: Serviços
 call_to_action: Contact
 large_header: false
-content_html: "<h3>Areas de Atuação</h3>
-<p>Num mundo em constante mudança, o profissionalismo implica especialização. Por esse motivo, a Evaristo Amáro criou áreas de atuação para melhor servir os seus clientes.</p>
+content_html: "<p>Num mundo em constante mudança, o profissionalismo implica especialização. Por esse motivo, a Evaristo Amáro criou áreas de atuação para melhor servir os seus clientes.</p><h3>Areas de Atuação</h3>
 <p>As nossas áreas de atuação compreendem uma diversidade de serviços jurídicos, os quais incluem, nomeadamente:</p>
 <details>
 <summary> Direito Societário Comercial</summary>
