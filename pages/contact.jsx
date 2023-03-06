@@ -30,6 +30,13 @@ export default function Contact({ page }) {
             </a>
           </p>
 
+          <label>E-mail 2</label>
+          <p className="contact-info">
+            <a href={`mailto:${data.company.contact_email_address2}`}>
+              {data.company.contact_email_address2}
+            </a>
+          </p>
+
           <label>Código Postal</label>
           <address
             className="contact-info"
