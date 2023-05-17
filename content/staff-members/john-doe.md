@@ -1,6 +1,6 @@
 ---
 name: Evaristo Amaro
-image: "https://i.ibb.co/MpZkryx/evaristo.jpg"
+image: "https://i.ibb.co/jDGKC7S/evaristo.jpg"
 credentials: CP 7823
 ---
 

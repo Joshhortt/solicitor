@@ -44,14 +44,17 @@ export default function DefaultLayout({ children, page }) {
       />
 
       <header
-        style={{ backgroundImage: "url(/uploads/building.jpg)" }}
-        className={page.data.large_header ? "main-hero" : ""}
+      // style={{ backgroundImage: "url(/uploads/logo.png)" }}
+      // className={page.data.large_header ? "main-hero" : ""}
       >
         <div className="container">
           <h1>
             <Link href="/">{data.company.company_name}</Link>
           </h1>
           <nav>
+            {/* <h1 className="company-name">Solicitador</h1> */}
+            <img src={"./uploads/logo.png"} alt="Solicitador" width="270" />
+
             <ul>
               <li>
                 <Link

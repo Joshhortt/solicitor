@@ -1,6 +1,6 @@
 ---
 name: Áreas de atuação
-image: "https://i.ibb.co/yN8MyMN/image.jpg"
+image: "https://i.ibb.co/9qLgLCw/areas.png"
 credentials: CP 7823
 ---
 

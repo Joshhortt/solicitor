@@ -20,7 +20,7 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: calc(50% - 0px) 175px;
-  height: 420px;
+  height: 380px;
   box-sizing: border-box;
 
   .container {
@@ -82,6 +82,10 @@ section {
     padding: 40px 40px;
   }
 }
+
+// .company-name {
+//   font-size: 1em;
+// }
 
 .content img {
   max-width: 100%;
