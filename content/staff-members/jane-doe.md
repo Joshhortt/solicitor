@@ -4,6 +4,8 @@ image: "https://i.ibb.co/9qLgLCw/areas.png"
 credentials: CP 7823
 ---
 
+##### Áreas de Atuação Gerais
+
 - Transmissão de imóveis
 - Liquidação de impostos
 - Heranças

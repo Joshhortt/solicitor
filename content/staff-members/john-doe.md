@@ -4,7 +4,9 @@ image: "https://i.ibb.co/jDGKC7S/evaristo.jpg"
 credentials: CP 7823
 ---
 
-- Licenciado em Solicitadoria pelo Instituto Politécnico de Beja (2017)
+##### Qualificações Académicas
+
+- Licenciado em Solicitadoria pelo Instituto Politécnico de Beja em 2017
 
 - Estágio de acesso à OSAE em 2018/19, sob a supervisão e no escritório do Ilustre e Distinto Solicitador e Agente de Execução, Dr. XPTO, em 2018, com inscrição ativa na Ordem desde 2019
 
