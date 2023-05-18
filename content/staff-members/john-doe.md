@@ -2,6 +2,7 @@
 name: Evaristo Amaro
 image: "https://i.ibb.co/jDGKC7S/evaristo.jpg"
 credentials: CP 7823
+phone_extension: "02"
 ---
 
 ##### Qualificações Académicas

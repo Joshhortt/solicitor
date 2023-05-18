@@ -23,7 +23,7 @@ export default function PostLayout({ children, page, author }) {
 
         {data.site.disqus_shortname && (
           <>
-            <h2>Have your say</h2>
+            <h2>Dê sua opinião</h2>
             <DiscussionEmbed
               className="post-comments"
               shortname={data.site.disqus_shortname}

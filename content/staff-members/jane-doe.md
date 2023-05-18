@@ -2,6 +2,7 @@
 name: Áreas de atuação
 image: "https://i.ibb.co/9qLgLCw/areas.png"
 credentials: CP 7823
+phone_extension: "02"
 ---
 
 ##### Áreas de Atuação Gerais
