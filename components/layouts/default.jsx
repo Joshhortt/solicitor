@@ -52,9 +52,8 @@ export default function DefaultLayout({ children, page }) {
             <Link href="/">{data.company.company_name}</Link>
           </h1>
           <nav>
-            {/* <h1 className="company-name">Solicitador</h1> */}
+            {/* <h4 className="company-name">Solicitador</h4> */}
             <img src={"./uploads/logo.png"} alt="Solicitador" width="270" />
-
             <ul>
               <li>
                 <Link
