@@ -2,23 +2,26 @@
 name: Áreas de atuação
 image: "https://i.ibb.co/9qLgLCw/areas.png"
 credentials: CP 7823
-phone_extension: "02"
+phone_extension:
 ---
 
 ##### Áreas de Atuação Gerais
 
-- Transmissão de imóveis
-- Liquidação de impostos
-- Heranças
-- Hipotecas
-- Formalização de sociedades
-- Liquidação de sociedades
-- Obtenção de certidões
-- Reconhecimento de assinaturas
-- Certificação de fotocópias
-- Certificação de documentos
-- Certificação de traduções
-- Registo comercial
-- Registo predial
-- Registo automóvel
-- Registo de marcas
+- Transmissão de Imóveis
+- Registo (Predial; Comercial; Automóvel; Civil)
+- Heranças / Doações / Partilhas
+- Constituição e Alteração de Empresas
+- Contratos (Compra & Venda, Arrendamento; Trabalho)
+- Autorização de saída de Menores
+- Reconhecimento de Assinaturas
+- Certificação (Fotocópias; Traduções)
+- Autenticação de Documentos
+- Procurações
+- Autos de Constatação
+- Gestão de Condomínio
+- Recuperação de Créditos
+- Aconselhamento Jurídico
+- Mandato Judicial
+- Julgados de Paz
+- Contraordenações
+- Fiscalidade

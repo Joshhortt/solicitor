@@ -2,17 +2,15 @@
 name: Evaristo Amaro
 image: "https://i.ibb.co/jDGKC7S/evaristo.jpg"
 credentials: CP 7823
-phone_extension: "02"
+phone_extension:
 ---
 
 ##### Qualificações Académicas
 
-- Licenciado em Solicitadoria pelo Instituto Politécnico de Beja em 2017
-
-- Estágio de acesso à OSAE em 2018/19, sob a supervisão e no escritório do Ilustre e Distinto Solicitador e Agente de Execução, Dr. XPTO, em 2018, com inscrição ativa na Ordem desde 2019
-
-- Solicitador em exercício como Profissional Independente desde Setembro de 2019
-
-- Pós Graduado em Segurança no Trabalho em Instituto Politécnico da Guarda
-
-- Mestrado em Desenvolvimento Comunitário e Empreendedorismo em Instituto Politécnico de Beja
+- Licenciado em Solicitadoria pelo Instituto Politécnico de Beja.
+- Inscrito na Ordem dos Solicitadores e Agentes de Execução, com a Cédula
+  Profissional 7823.
+- Pós-Graduado em Registos e Notariado pelo Instituto Politécnico de Leiria.
+- Pós-Graduado em Segurança no Trabalho pelo Instituto Politécnico da Guarda.
+- Especialista em Desenvolvimento Comunitário e Empreendedorismo em
+  Instituto Politécnico de Beja.

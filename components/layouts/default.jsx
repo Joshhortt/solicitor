@@ -100,7 +100,7 @@ export default function DefaultLayout({ children, page }) {
         <section className="quote-section">
           <p className="container">
             <Link href="/contact">Contacte nos</Link> hoje para saber como o
-            podemos ajudar. A sua primeira consulta é sempre gratuita.
+            podemos ajudar.
           </p>
         </section>
       )}
@@ -108,8 +108,8 @@ export default function DefaultLayout({ children, page }) {
       {page.data.call_to_action === "Blog" && (
         <section className="quote-section">
           <p className="container">
-            <Link href="/blog">Leia o Blog</Link> acerca das últimas novidades
-            sobre várias áreas da lei em Portugal.
+            Leia o nosso <Link href="/blog">Blog</Link> acerca das últimas
+            novidades sobre o Direito e Legislação em Portugal.
           </p>
         </section>
       )}

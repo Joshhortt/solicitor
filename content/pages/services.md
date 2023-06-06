@@ -2,148 +2,105 @@
 title: Serviços
 call_to_action: Contact
 large_header: false
-content_html: "<p>Num mundo em constante mudança, o profissionalismo implica especialização. Por esse motivo, a Evaristo Amáro criou áreas de atuação para melhor servir os seus clientes.</p><h3>Areas de Atuação</h3>
+content_html: "<p>Num mundo em constante mudança, o profissionalismo implica especialização. Por esse
+motivo, Evaristo Amaro aprofundou conhecimentos técnico-científicos, em diversas áreas de
+atuação para melhor servir os seus clientes.</p><h3>Areas de Atuação</h3>
 <p>As nossas áreas de atuação compreendem uma diversidade de serviços jurídicos, os quais incluem, nomeadamente:</p>
+
 <details>
-<summary> Direito Societário Comercial</summary>
+<summary> IMÓVEIS</summary>
+<ul>
+<li>Compra & Venda</li>
+<li>Hipoteca</li>
+<li>Doação</li>
+<li>Dação em pagamento</li>
+<li>Contrato de promessa de compra & Venda</li>
+<li>Contratos de promessa com eficácia real</li>
+<li>Pactos de preferência com eficácia real</li>
+<li>Constituição ou modificação de propriedade horizontal</li>
+<li>Constituição ou modificação do direito de habitação periódica (time-sharing)</li>
+<li>Consignação de rendimentos ( atribuição de uma renda resultante de um imóvel)</li>
+<li>Divisão de coisas comuns (divisão de imóvel que se encontra em regime de compropriedade)</li>
+<li>Mútuo (empréstimo)</li>
+<li>Transmissão de créditos garantidos por hipoteca</li>
+<li>Respetivos registos e cumprimentos de obrigações fiscais</li>
+</ul>
 <br>
-Na sociedade atual a racionalização de custos e diminuição da probabilidade de conflitos no seio da empresa requerem respostas tecnicamente sólidas mas com forte sentido prático.
+</details>
 
-Constituição, certificado de admissibilidade, redomiciliação, cisão e fusão, transformação de sociedades, dissolução, registo de marcas e patentes, registos e outros. 
 
-Para mais informações, agende uma consulta jurídica.
-<br><br>
+<details>
+<summary> HERANÇAS & PARTILHAS</summary>
+<ul>
+<li>Aconselhamento Jurídico</li>
+<li>Obtenção de NIF de herança indivisa</li>
+<li>Preparação de declaração do imposto de Selo</li>
+<li>Preenchimento e entrega de Declaração Modelo 1 para efeitos de IMI</li>
+<li>Obtenção de documentaçãoi, marcação e acompanhamento do título de habilitação de herdeiros</li>
+<li>Averbamento dos prédios em nome de herança </li>
+<li>Preparação e obtenção de documentos instrutórios para partilha</li>
+<li>Outorga do Documento Particular Autenticado de Partilha</li>
+<li>Pedido de liquidação de IMT, após partilha</li>
+<li>Averbamento dos prédios em nome dos novos proprietários na respetiva matriz</li>
+<li>Registo na Conservatória respetiva dos bens sujeitos a registo (prédios, automóveis, quotas de sociedades) em nome dos novos proprietários</li>
+</ul>
+<br>
 </details>
 
 <details>
-<summary> Migração, Direito da Família e Sucessões</summary>
+<summary> SOCIEDADES COMERCIAIS</summary>
+<ul>
+<li>Constituição de sociedades</li>
+<li>Alteraçaõ do pacto social</li>
+<li>Cessão de quotas</li>
+<li>Divisão e unificação de quotas</li>
+<li>Alteração dos titulares dos orgão sociais</li>
+<li>Transformação de sociedade</li>
+<li>Fusões e cisões</li>
+<li>Penhor e arresto de quotas</li>
+<li>Registo de marca</li>
+<li>Obtenção de certidões</li>
+<li>Amortização de quotas</li>
+<li>Aumento ou redução do capital social</li>
+<li>Contrato de mandato ou agência</li>
+<li>Conversão de registos provisórios</li>
+<li>Cancelamento e retificação de registos por depósitos efetuados 'online'</li>
+<li>Elaboração de atas</li>
+<li>Entrega da declaração do Registo Central do Beneficiário Efectivo (RCBE)</li>
+</ul>
 <br>
-Vistos; Estatuto RNH, Autorização de residência, reagrupamento familiar, nacionalidade Portuguesa, certidões de nascimento/casamento/óbito, pensões do estrangeiro, benefícios fiscais e outros. 
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
 </details>
 
 <details>
-<summary> Direito do Trabalho</summary>
+<summary> REGISTO AUTOMÓVEL</summary>
+<ul>
+<li>Todos os atos relacionados com transmissão e oneração de veículos, nomedamente:</li>
+<ul>
+<li>Registo de transmissão</li>
+<li>Cancelamento de Reserva de propriedade e outros encargos</li>
+<li>Pedido de 2º Via de Documento Único Automóvel (DUA)</li>
+</ul>
+</ul>
 <br>
-Acompanhamos a gestão dos Recursos Humanos dos nossos clientes oferecendo uma cobertura total das suas necessidades de aconselhamento em matérias de Contratação, Procedimentos Disciplinares e Contencioso Laboral.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
 </details>
 
 <details>
-<summary> Direito do Desporto</summary>
+<summary> OUTROS RAMOS</summary>
+<ul>
+<li>Autos de Constatação</li>
+<li>Certificação de fotocópias</li>
+<li>Autenticação de documentos particulares </li>
+<li>Reconhecimento de assinaturas</li>
+<li>Reconhecimento de letra e assinatura</li>
+<li>Reconhecimento com menções especiais</li>
+<li>Procurações</li>
+<li>Consentimentos Conjugais</li>
+<li>Tradução e retroversão de documento em língua estrangeira, bem como certificação da tradução ou apenas certificação da tradução realizada por tradutor</li>
+<li>Renovação do cartão de cidadão (desde que não se verifique alteração de dados biométricos) e de carta de condução</li>
+<li>Alteração de morada associada ao Cartão de Cidadão (fiscal, segurança social, eleitor)</li>
+<li>Elaboração de contratos (Arrendamento, Trabalho; Prestação de Serviços, Empreitada, Comodato, entre outros</li>
+<li>Cobrança de Dívidas / Contencioso (Injunção / Pepex)</li>
+</ul>
 <br>
-Realizamos uma abordagem integrada e transversal ao Direito do Desporto, com a intervenção de especialistas aptos a relacionar todos os ramos do direito que se ligam à atividade e aos negócios desportivos.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Direito dos Seguros</summary>
-<br>
-Prestamos apoio jurídico em matéria da atividade seguradora, desde a conceção, elaboração e negociação de produtos de seguro à assessoria no âmbito da atividade e apoio na gestão de sinistros.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Direito Fiscal</summary>
-<br>
-Seja de forma preventiva, evitando conflitos com a Administração Tributária, seja em tribunal quando esses conflitos se tornam inevitáveis, apoiamos Clientes em todos os setores.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Direito Administrativo</summary>
-<br>
-Estamos preparados para tramitar processos de impugnação de atos administrativos, condenação da Administração à prática de atos, ações sobre contratos e providências cautelares.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Direito Criminal e Contraordenacional</summary>
-<br>
-Apoiamos as empresas e pessoas que na sua atividade corrente ou respetivas vidas se vejam confrontadas com processos de natureza criminal ou contraordenacional.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Contencioso e Arbitragem</summary>
-<br>
-Apoiamos os nossos clientes em litígios de grande complexidade, críticos para o seu negócio e reputação. 
-
-Estamos envolvidos nas mais sofisticadas e sensíveis disputas no âmbito da arbitragem.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Recuperação de Crédito e Insolvência</summary>
-<br>
-Intervimos em Procedimentos de Recuperação de Empresas, bem como em Processos de Insolvência de particulares e empresas, tais como:
-
-Cobranças extrajudiciais e judiciais, confissões de dívida e acordo de pagamento, injunções, execuções, insolvência, PER, PEAP, PEV e outro.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Direito Imobiliário e Veículos de Investimento e Atos Notariais</summary>
-<br>
-Realizamos consultoria e acompanhamento de Clientes, nas áreas do contencioso do direito imobiliário, drafting, negociação e outras áreas do Direito Privado assim como pela constituição e acompanhamento de veículos especiais para o investimento imobiliário.
-
-Realizamos consultoria e acompanhamento de Clientes, na Compra e venda, CPCV, constituição de propriedade horizontal, licenciamentos, Autenticações, Certificações, Reconhecimento de assinaturas, traduções, apostilamentos e outros.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Condomínios e Arrendamento Habitacional</summary>
-<br>
-Realizamos consultoria e acompanhamento de Clientes, nas áreas da Constituição de condomínio, NIPC, Regulamentação, cobranças, assessoria, contratos, notificações e citações, despejos e outros. 
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Legalização de Veículos Estrangeiros e Registo Automóvel</summary>
-<br>
-Realizamos consultoria e acompanhamento de Clientes necessitam de realizar Registos, importação, exportação, matrículas, compra e venda, locação financeira, extinção de reserva de propriedade, certificado de matrícula e outros. 
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Propriedade Intelectual</summary>
-<br>
-A nossa equipa centra-se na aquisição e manutenção de direitos de propriedade intelectual, bem como no cumprimento e defesa dos mesmos em casos de violação e à elaboração de acordos de licenciamento.
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
-</details>
-
-<details>
-<summary> Registos e Notariado</summary>
-<br>
-Efetuamos em seu nome, de um modo cómodo e célere, os registos, informações e pedidos de registo que necessitar, nomeadamente o registo automóvel, predial, civil e comercial
-
-Para mais informações, agende uma consulta jurídica.
-<br><br>
 </details>"
 ---
