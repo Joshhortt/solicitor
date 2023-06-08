@@ -1,11 +1,11 @@
 ---
 name: Evaristo Amaro
-image: "https://i.ibb.co/jDGKC7S/evaristo.jpg"
+image: "https://i.ibb.co/JKM2n59/evaristoamaro.png"
 credentials: CP 7823
 phone_extension:
 ---
 
-##### Qualificações Académicas
+#
 
 - Licenciado em Solicitadoria pelo Instituto Politécnico de Beja.
 - Inscrito na Ordem dos Solicitadores e Agentes de Execução, com a Cédula

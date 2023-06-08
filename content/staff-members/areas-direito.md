@@ -5,7 +5,7 @@ credentials: CP 7823
 phone_extension:
 ---
 
-##### Áreas de Atuação Gerais
+#
 
 - Transmissão de Imóveis
 - Registo (Predial; Comercial; Automóvel; Civil)

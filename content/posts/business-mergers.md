@@ -3,8 +3,8 @@ title: Atos Notariais à Distância
 date: 2023-02-05
 tags:
   - Negócios
-author_staff_member: john-doe
-image: "https://unsplash.it/600/450?image=737&a=.png"
+author_staff_member: evaristo-amaro
+image: "https://i.ibb.co/wCXJcdx/blog-post-image-1.png"
 ---
 
 No dia 04 de abril de 2022 entrou em vigor o <a href="https://dre.pt/dre/detalhe/decreto-lei/126-2021-176811775">Decreto-Lei n.º 126/2021</a>, de 30 de dezembro. Tal diploma estabelece o regime jurídico temporário aplicável à realização, através de:

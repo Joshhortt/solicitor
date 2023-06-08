@@ -30,13 +30,13 @@ atuação para melhor servir os seus clientes.</p><h3>Areas de Atuação</h3>
 
 
 <details>
-<summary> HERANÇAS & PARTILHAS</summary>
+<summary> HERANÇAS E PARTILHAS</summary>
 <ul>
 <li>Aconselhamento Jurídico</li>
 <li>Obtenção de NIF de herança indivisa</li>
 <li>Preparação de declaração do imposto de Selo</li>
 <li>Preenchimento e entrega de Declaração Modelo 1 para efeitos de IMI</li>
-<li>Obtenção de documentaçãoi, marcação e acompanhamento do título de habilitação de herdeiros</li>
+<li>Obtenção de documentação, marcação e acompanhamento do título de habilitação de herdeiros</li>
 <li>Averbamento dos prédios em nome de herança </li>
 <li>Preparação e obtenção de documentos instrutórios para partilha</li>
 <li>Outorga do Documento Particular Autenticado de Partilha</li>
@@ -85,13 +85,12 @@ atuação para melhor servir os seus clientes.</p><h3>Areas de Atuação</h3>
 </details>
 
 <details>
-<summary> OUTROS RAMOS</summary>
+<summary> DIVERSOS</summary>
 <ul>
 <li>Autos de Constatação</li>
 <li>Certificação de fotocópias</li>
 <li>Autenticação de documentos particulares </li>
 <li>Reconhecimento de assinaturas</li>
-<li>Reconhecimento de letra e assinatura</li>
 <li>Reconhecimento com menções especiais</li>
 <li>Procurações</li>
 <li>Consentimentos Conjugais</li>

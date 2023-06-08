@@ -2,7 +2,7 @@
 title: Política de Privacidade
 call_to_action: Contact
 large_header: false
-content_html: "<p>Evaristo Amáro, Solicitador, com domicílio profissional na Av. Miguel Fernandes 10-B, 7800-396 Beja e NIF XXX YYY ZZZ, representa um escritório que se dedica à prestação de serviços jurídicos, sendo o proprietário do domínio evaristoamaro.pt, onde se encontra alojado o seu WEBSITE.</p><p>ESTAMOS EMPENHADOS EM PROTEGER A PRIVACIDADE E OS DADOS PESSOAIS DOS SEUS CLIENTES E UTILIZADORES DO WEBSITE, PELO QUE ELABOROU E ADOTOU A PRESENTE POLÍTICA E AS PRÁTICAS AQUI DESCRITAS. ESTA POLÍTICA DE PRIVACIDADE E COOKIES EXPLICA COMO SÃO RECOLHIDOS E TRATADOS OS SEUS DADOS PESSOAIS PELO QUE ACONSELHAMOS A SUA LEITURA PARA CONHECER AS CONDIÇÕES OS SEUS DADOS PESSOAIS SÃO RECOLHIDOS E UTILIZADOS.</p>
+content_html: "<p>Evaristo Amaro, Solicitador, com domicílio profissional na Av. Miguel Fernandes 10-B, 7800-396 Beja e NIF: 195 076 338, representa um escritório que se dedica à prestação de serviços jurídicos, sendo o proprietário do domínio evaristoamaro.pt, onde se encontra alojado o seu WEBSITE.</p><p>ESTAMOS EMPENHADOS EM PROTEGER A PRIVACIDADE E OS DADOS PESSOAIS DOS SEUS CLIENTES E UTILIZADORES DO WEBSITE, PELO QUE ELABOROU E ADOTOU A PRESENTE POLÍTICA E AS PRÁTICAS AQUI DESCRITAS. ESTA POLÍTICA DE PRIVACIDADE E COOKIES EXPLICA COMO SÃO RECOLHIDOS E TRATADOS OS SEUS DADOS PESSOAIS PELO QUE ACONSELHAMOS A SUA LEITURA PARA CONHECER AS CONDIÇÕES OS SEUS DADOS PESSOAIS SÃO RECOLHIDOS E UTILIZADOS.</p>
 <details>
 <summary> DO QUE TRATA ESTA POLÍTICA?</summary>
 <br>
@@ -243,6 +243,6 @@ Caso tenha alguma dúvida ou questão relacionada com esta Política de Privacid
 <details>
 <summary>ÚLTIMA VERSÃO</summary>
 <br>
-31 Janeiro, 2023. Beja (Portugal)
+7 Junho, 2023. Beja (Portugal)
 </details>"
 ---

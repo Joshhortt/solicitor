@@ -3,7 +3,7 @@ title: Renegociação do Crédito de Habitação
 date: 2022-12-28
 tags:
   - Direito de Propriedade
-author_staff_member: john-doe
+author_staff_member: evaristo-amaro
 image: "https://unsplash.it/600/450?image=448&a=.png"
 ---
 

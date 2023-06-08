@@ -53,7 +53,7 @@ export default function DefaultLayout({ children, page }) {
           </h1>
           <nav>
             {/* <h4 className="company-name">Solicitador</h4> */}
-            <img src={"./uploads/logo.png"} alt="Solicitador" width="270" />
+            <img src={"/uploads/logo.png"} alt="Solicitador" width="270" />
             <ul>
               <li>
                 <Link
@@ -157,11 +157,11 @@ export default function DefaultLayout({ children, page }) {
                 <h2>{data.company.company_name}</h2>
               </li>
               <li>{data.company.description}</li>
-              <li>
+              {/* <li>
                 <Link href="/feed.xml">
                   <Icon icon="RSS" /> Subscreve com RSS
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
@@ -170,7 +170,7 @@ export default function DefaultLayout({ children, page }) {
           <p className="container">
             &copy; {new Date().getFullYear()} {data.company.company_name} &bull;{" "}
             <Link href="/privacy">Política de Privacidade</Link> &bull;
-            <Link href="/terms">Termos & Condições</Link> &bull; Desenvolvido
+            <Link href="/terms">Termos e Condições</Link> &bull; Desenvolvido
             por{" "}
             <Link href="https://creativelightbox.net/">Creative Lightbox</Link>
           </p>
