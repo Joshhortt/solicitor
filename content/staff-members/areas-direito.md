@@ -8,7 +8,7 @@ phone_extension:
 #
 
 - Transmissão de Imóveis
-- Registo (Predial; Comercial; Automóvel; Civil)
+- Registos (Predial; Comercial; Automóvel; Civil)
 - Heranças / Doações / Partilhas
 - Constituição e Alteração de Empresas
 - Contratos (Compra & Venda, Arrendamento; Trabalho)

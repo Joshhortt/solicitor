@@ -157,11 +157,11 @@ export default function DefaultLayout({ children, page }) {
                 <h2>{data.company.company_name}</h2>
               </li>
               <li>{data.company.description}</li>
-              {/* <li>
+              <li>
                 <Link href="/feed.xml">
                   <Icon icon="RSS" /> Subscreve com RSS
                 </Link>
-              </li> */}
+              </li>
             </ul>
           </div>
         </div>

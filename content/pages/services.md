@@ -4,8 +4,8 @@ call_to_action: Contact
 large_header: false
 content_html: "<p>Num mundo em constante mudança, o profissionalismo implica especialização. Por esse
 motivo, Evaristo Amaro aprofundou conhecimentos técnico-científicos, em diversas áreas de
-atuação para melhor servir os seus clientes.</p><h3>Areas de Atuação</h3>
-<p>As nossas áreas de atuação compreendem uma diversidade de serviços jurídicos, os quais incluem, nomeadamente:</p>
+atuação para melhor servir os seus clientes.</p><h3>Áreas de Atuação</h3>
+<p>As nossas áreas de atuação compreendem uma diversidade de serviços jurídicos, os quais incluem, nomeadamente: <em>(Clique no botão ou sobre a área de atuação para ler mais!)</em></p>
 
 <details>
 <summary> IMÓVEIS</summary>
