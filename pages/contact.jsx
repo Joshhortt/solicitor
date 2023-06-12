@@ -69,6 +69,9 @@ export default function Contact({ page }) {
             <label htmlFor="name">Nome</label>
             <input id="name" type="text" name="name" />
 
+            <label htmlFor="_subject">Assunto</label>
+            <input id="_subject" type="text" name="subject" />
+
             <label htmlFor="message">Mensagem</label>
             <textarea id="message" name="message"></textarea>
 
